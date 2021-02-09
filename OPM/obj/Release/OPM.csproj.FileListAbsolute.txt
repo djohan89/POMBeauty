@@ -1,0 +1,15 @@
+F:\07. Digital Tranfrom\Source\OPM\OPM\OPM\bin\Release\OPM.exe.config
+F:\07. Digital Tranfrom\Source\OPM\OPM\OPM\bin\Release\OPM.exe
+F:\07. Digital Tranfrom\Source\OPM\OPM\OPM\bin\Release\OPM.pdb
+F:\07. Digital Tranfrom\Source\OPM\OPM\OPM\bin\Release\ExcelDataReader.dll
+F:\07. Digital Tranfrom\Source\OPM\OPM\OPM\bin\Release\ExcelDataReader.pdb
+F:\07. Digital Tranfrom\Source\OPM\OPM\OPM\bin\Release\ExcelDataReader.xml
+F:\07. Digital Tranfrom\Source\OPM\OPM\OPM\obj\Release\OPM.csprojAssemblyReference.cache
+F:\07. Digital Tranfrom\Source\OPM\OPM\OPM\obj\Release\OPM.csproj.ResolveComReference.cache
+F:\07. Digital Tranfrom\Source\OPM\OPM\OPM\obj\Release\OPM.Form1.resources
+F:\07. Digital Tranfrom\Source\OPM\OPM\OPM\obj\Release\OPM.Properties.Resources.resources
+F:\07. Digital Tranfrom\Source\OPM\OPM\OPM\obj\Release\OPM.csproj.GenerateResource.cache
+F:\07. Digital Tranfrom\Source\OPM\OPM\OPM\obj\Release\OPM.csproj.CoreCompileInputs.cache
+F:\07. Digital Tranfrom\Source\OPM\OPM\OPM\obj\Release\OPM.csproj.CopyComplete
+F:\07. Digital Tranfrom\Source\OPM\OPM\OPM\obj\Release\OPM.exe
+F:\07. Digital Tranfrom\Source\OPM\OPM\OPM\obj\Release\OPM.pdb
